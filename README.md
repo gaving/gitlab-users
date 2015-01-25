@@ -1,8 +1,8 @@
-# gitlab-view-users
+# gitlab-users
 
 Front-end for viewing users on a [Gitlab](https://about.gitlab.com/) instance.
 
-![screen](https://github.com/gaving/gitlab-view-users/raw/master/docs/1.png)
+![screen](https://github.com/gaving/gitlab-users/raw/master/docs/1.png)
 
 ## Usage
 
